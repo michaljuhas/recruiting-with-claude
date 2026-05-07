@@ -1,0 +1,2 @@
+[console_scripts]
+airtable-cli = airtable_cli.cli:main
