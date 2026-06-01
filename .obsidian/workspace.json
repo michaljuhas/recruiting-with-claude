@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c7033d904781eea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "415a974bf0997c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2035d84cc8de47ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "975d674a383c959b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd85fe684444bff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7244deaacd710b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6733e81a08c778c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "444a7eaa792a6d42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d82b764e63314b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a46d6398322a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b95811394e225f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec87cc2d652558a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ffc50c34b26790fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d28904dae5ea235",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60411d7995e5823d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2035d84cc8de47ce",
+  "lastOpenFiles": [
+    "README.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    ".gitignore.sb-d06e7dd4-CSmP9L",
+    ".obsidian/.DS_Store",
+    ".obsidian/community-plugins.json",
+    ".git/logs/refs/remotes/origin/HEAD",
+    ".obsidian/plugins/show-all-hidden-files/manifest.json",
+    ".obsidian/plugins/show-all-hidden-files/main.js",
+    ".git/refs/remotes/origin/HEAD",
+    ".git/logs/refs/remotes/origin",
+    ".git/logs/refs/heads/main",
+    ".obsidian/plugins/show-all-hidden-files",
+    ".claude/skills/sourcing-strategy-generator/resources/how-to-get-more-candidates.png",
+    ".claude/skills/sourcing-strategy-generator/resources/boolean-search.png",
+    ".claude/skills/sourcing-strategy-generator/resources/boolean-search-fullstack-java-react-engineer.png",
+    ".claude/skills/sourcing-strategy-generator/resources/boolean-search-frontend-react-engineer.png",
+    ".claude/skills/sourcing-strategy-generator/resources/boolean-search-examples.png",
+    ".claude/skills/sourcing-strategy-generator/my-examples/example-software-pm-searches.md",
+    ".claude/skills/outreach-writer/my-examples/software-engineer.md",
+    ".claude/skills/outreach-writer/my-examples/example-software-pm-outreach.md",
+    ".claude/skills/job-seller/resources/software-engineers.png",
+    ".claude/skills/job-seller/resources/qa-testing.png",
+    ".claude/skills/job-seller/resources/product-managers.png",
+    ".claude/skills/job-seller/resources/it-managers.png",
+    ".claude/skills/job-seller/resources/how-to-pitch-tech-job-opportunities.png",
+    ".claude/skills/job-seller/my-examples/example-software-pm-job-ad.md",
+    ".claude/skills/job-requirement-analysis/my-examples/example-software-pm-intake.md",
+    ".claude/skills/candidate-screener/my-examples/example-software-pm-evaluation.md",
+    ".claude/skills/candidate-icp-builder/my-examples/example-software-pm-icp.md",
+    ".claude/skills/sourcing-strategy-generator/SKILL.md",
+    ".claude/skills/outreach-writer/SKILL.md",
+    ".claude/skills/job-seller/SKILL.md",
+    ".claude/skills/job-requirement-analysis/SKILL.md",
+    ".claude/skills/candidate-screener/SKILL.md",
+    ".claude/skills/candidate-icp-builder/SKILL.md",
+    ".claude/templates/pipeline-tracker.md",
+    ".claude/playbooks/example-software-project-manager.md",
+    "knowledge-base/team/hiring-managers.md",
+    "knowledge-base/team/engineering.md",
+    "knowledge-base/team.md",
+    "knowledge-base/tone-of-voice/guidelines.md",
+    "knowledge-base/tone-of-voice/examples.md",
+    "knowledge-base/templates.md",
+    "knowledge-base/outreach-messages.md",
+    "knowledge-base/tone-of-voice.md"
+  ]
+}
